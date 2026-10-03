@@ -247,7 +247,6 @@ dsh-tray-restart/
 
 取决于 DSH 的安装目录权限。不要以管理员身份重开整个工作流；优先只为目标安装目录授予必要写权限。
 
-
 ## License
 
 [![MIT](https://img.shields.io/badge/license-MIT-65a30d)](LICENSE)
