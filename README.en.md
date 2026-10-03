@@ -83,9 +83,6 @@ The native approach has zero runtime overhead, with one trade-off: application u
 
 The repository intentionally has no `package.json`, installer, or executable code. **The prompt in `README.md` is the product.**
 
-## Acknowledgements
-
-README presentation was inspired by [dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue).
 
 ## License
 
