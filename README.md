@@ -247,9 +247,6 @@ dsh-tray-restart/
 
 取决于 DSH 的安装目录权限。不要以管理员身份重开整个工作流；优先只为目标安装目录授予必要写权限。
 
-## 致谢
-
-README 的工程化呈现参考了 [dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue)。
 
 ## License
 
