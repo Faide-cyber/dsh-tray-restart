@@ -18,6 +18,10 @@
 
 ---
 
+<p align="center">
+  <img src="./docs/images/tray-menu.png" alt="The official tray context menu with Restart DeepSeek Harness added" width="322">
+</p>
+
 ## What it does
 
 This repository ships no Cordis plugin and starts no helper process. Its deliverable is a copy-ready Harness prompt that adds **Restart DeepSeek Harness** to the existing Electron tray menu.

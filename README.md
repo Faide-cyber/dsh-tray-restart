@@ -18,6 +18,10 @@
 
 ---
 
+<p align="center">
+  <img src="./docs/images/tray-menu.png" alt="官方托盘右键菜单里多出「重启 DeepSeek Harness」" width="322">
+</p>
+
 ## 它做什么
 
 这不是 Cordis 插件，也不会再创建第二个托盘图标。你只需把下方提示词粘贴进正在使用的 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)，Harness 会先核查本机版本与桌面端结构，再把 **“重启 DeepSeek Harness”** 加入现有的官方 Electron 托盘菜单。
